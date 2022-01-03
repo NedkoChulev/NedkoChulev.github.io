@@ -1,0 +1,21 @@
+body {
+    background-color: #382312;
+}
+
+.component {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input[type="checkbox"] {
+    transform:scale(2, 2);
+}
+
+img {
+    margin: 0 10px 10px;
+}
+
+.used {
+    filter: grayscale(100%);
+}
